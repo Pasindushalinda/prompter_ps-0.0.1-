@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_ps",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2022-12-26T02:56:05.536334Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.4"
+}

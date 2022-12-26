@@ -1,0 +1,7 @@
+name: prompter_ps
+version: 0.0.1
+description: Library to create CLI wizards
+homepage: https://github.com/Pasindushalinda
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
